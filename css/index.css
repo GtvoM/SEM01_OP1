@@ -1,0 +1,12 @@
+.gtvo_avatar {
+    height: 150px;
+    width: 150px;
+}
+ul li span {
+    font-weight: bold;
+    padding-right: 5px;
+}
+p.gtvo_p {
+    width: 500px;
+    text-align: justify;
+}
